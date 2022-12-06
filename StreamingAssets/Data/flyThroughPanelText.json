@@ -1,0 +1,13 @@
+{
+    "keys": ["HighStreetFT", "ResearchAndDevelopmentFT", "PropagationFT", "Tunnel3FT", "Tunnel4FT", "Tunnel5FT", "Tunnel6FT", "OutroFT"],
+    "values": [
+        "Growing Underground is a hydroponic farm, located 30m underground in a disused air-raid shelter beneath Clapham High Street in London.\n(Press space to continue)",
+        "In the R&D area of the farm, plant scientists perform experiments to find optimal growing conditions for different crops\n(Press space to continue)",
+        "The Propagation area of the farm is where seeds are germinated and planted in trays, before being moved to the main growing area of the farm\n(Press space to continue)",
+        "Tunnel 3 is the original growing section of the farm.\n(Press space to continue)",
+        "Tunnel 4 is one of the new sections of the farm.\n(Press space to continue)",
+        "Tunnel 5 is one of the new sections of the farm.\n(Press space to continue)",
+        "Tunnel 6 is one of the new sections of the farm.\n(Press space to continue)",
+        "For more information, go to https://growing-underground.com/ \n(Press 'q' to exit FlyThrough mode)"
+    ]
+}
